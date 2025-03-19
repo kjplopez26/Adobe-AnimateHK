@@ -1,6 +1,6 @@
 # Adobe Animate
 
-![png-clipart-adobe-suite-for-macos-stacks-adobe-animate-icon](https://github.com/user-attachments/assets/e808bbd6-5195-458a-87ae-b59f9bef47ee)
+![icon-adobe-animate-cc-1024x1024](https://github.com/user-attachments/assets/90240314-b4a4-4e15-beee-284ac4fcd7aa)
 
 ## 🎨 About the Software
 **Adobe Animate** is a powerful tool for creating interactive animations, vector graphics, and multimedia content. Ideal for animators, game designers, and content creators, it provides advanced tools for producing engaging animations for web, mobile, and video projects.
